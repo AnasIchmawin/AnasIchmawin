@@ -8,7 +8,7 @@ In addition to my technical skills, I value collaboration and believe that the b
 
 I am particularly interested in areas such as software engineering, database management, and network programming. My goal is to leverage my skills and experiences to create impactful software solutions that improve people's lives.
 
-Feel free to explore my repositories to see some of the projects I've worked on. I'm always open to connecting with fellow enthusiasts and professionals in the field, so don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/anas-ichmawin-9048072a7/) !
+Feel free to explore my repositories to see some of the projects I've worked on. I'm always open to connecting with fellow enthusiasts and professionals in the field, so don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/anas-ichmawin/) !
 
 
 
