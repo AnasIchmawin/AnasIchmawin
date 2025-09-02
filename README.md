@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-Hello! I'm a passionate and dedicated software engineering student in my 4th year at **ENSA Khouribga**. My journey in technology has been an exciting adventure, marked by continuous learning and a drive to solve complex problems with innovative solutions. Throughout my academic career, I've honed my skills in various programming languages and technologies, which has equipped me to tackle diverse challenges in the tech world.
+Hello! I'm a passionate and dedicated software engineering student in my **5th year at ENSA Khouribga**. My journey in technology has been an exciting adventure, marked by continuous learning and a drive to solve complex problems with innovative solutions. Throughout my academic career, I've honed my skills in various programming languages and technologies, which has equipped me to tackle diverse challenges in the tech world.
 
 I thrive on the thrill of problem-solving and am always eager to dive into new projects that push the boundaries of my knowledge. My experience at **ENSA Khouribga** and **1337 Coding School** has provided me with a solid foundation in software development, allowing me to contribute effectively to team projects and develop my own applications.
 
 In addition to my technical skills, I value collaboration and believe that the best solutions come from working closely with others. Whether it's through participating in coding challenges, contributing to open-source projects, or engaging in group assignments, I continuously seek opportunities to learn from my peers and share my own insights.
 
-I am particularly interested in areas such as software engineering, database management, and network programming. My goal is to leverage my skills and experiences to create impactful software solutions that improve people's lives.
+I am particularly interested in areas such as **software engineering, mobile development, and database management**. My goal is to leverage my skills and experiences to create impactful software solutions that improve people's lives.
 
 Feel free to explore my repositories to see some of the projects I've worked on. I'm always open to connecting with fellow enthusiasts and professionals in the field, so don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/anas-ichmawin/) !
 
